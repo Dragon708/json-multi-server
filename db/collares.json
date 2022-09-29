@@ -1,5 +1,4 @@
-{
-  "collares" :[
+ [
     {
     "id": 1,
     "nombre": "Collar",
@@ -15,6 +14,5 @@
    "imagen": "Collar3.png",
    "precio": 400,
    "ratings": 3
-}]
-  
 }
+]
