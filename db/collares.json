@@ -14,5 +14,20 @@
    "imagen": "Collar3.png",
    "precio": 400.0,
    "ratings": 3.0
+},
+  {
+    "id":3,
+    "nombre": "Collar",
+    "titulo": "peo Con Cascabel Razas Pequeñas",
+    "imagen": "Collar3.png",
+    "precio": 380.0,
+    "ratings": 3.0
+},{
+    "id": 4,
+    "nombre": "Collar",
+    "titulo": "dragon Con Cascabel Razas Pequeñas",
+    "imagen": "Collar3.png",
+    "precio": 380.0,
+    "ratings": 3.0
 }
 ]
