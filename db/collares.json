@@ -3,31 +3,130 @@
     "id": 1,
     "nombre": "Collar",
     "titulo": "Collar Con Cascabel Razas Pequeñas",
-    "imagen": "Collar3.png",
+    "imagen": "https://i.imgur.com/7PjevHY.png",
     "precio": 380.0,
-    "ratings": 3.0
+    "ratings": 3.0,
+    "descripcion": "s"
 },
 {
     "id": 2,
-   "nombre": "Collar",
-   "titulo": "Collar  Razas Pequeñas",
-   "imagen": "Collar3.png",
-   "precio": 400.0,
-   "ratings": 3.0
-},
-  {
-    "id":3,
     "nombre": "Collar",
-    "titulo": "peo Con Cascabel Razas Pequeñas",
-    "imagen": "Collar3.png",
-    "precio": 380.0,
-    "ratings": 3.0
-},{
+    "titulo": "Collar Paticas Razas Pequeñas",
+    "imagen": "https://i.imgur.com/zsjhbUF.png",
+    "precio": 400.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 3,
+    "nombre": "Collar",
+    "titulo": "Collar Refractante Razas Pequeñas",
+    "imagen": "https://i.imgur.com/rr5pI75.png",
+    "precio": 400.0,
+    "ratings": 3,
+    "descripcion": "s"
+},
+{
     "id": 4,
     "nombre": "Collar",
-    "titulo": "dragon Con Cascabel Razas Pequeñas",
-    "imagen": "Collar3.png",
-    "precio": 380.0,
-    "ratings": 3.0
+    "titulo": "Collar Brillos Razas Pequeñas",
+    "imagen": "https://i.imgur.com/SlcTo9U.png",
+    "precio": 400.0,
+    "ratings": 3.0,
+    "descripcion": "s"
+},
+{
+    "id": 5,
+    "nombre": "Collar",
+    "titulo": "Collar Nieve Razas Pequeñas",
+    "imagen": "https://i.imgur.com/vBqDMDD.png",
+    "precio": 450.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 6,
+    "nombre": "Collar",
+    "titulo": "Collar Silicona Razas Pequeñas",
+    "imagen": "https://i.imgur.com/LmIWdnv.png",
+    "precio": 450.0,
+    "ratings": 3.0,
+    "descripcion": "s"
+},
+{
+    "id": 7,
+    "nombre": "Collar",
+    "titulo": "Collar Lazos Razas Pequeñas",
+    "imagen": "https://i.imgur.com/JT37EG7.png",
+    "precio": 450.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 8,
+    "nombre": "Collar",
+    "titulo": "Collar Satinado Razas Pequeñas",
+    "imagen": "https://i.imgur.com/1zRKq4x.png",
+    "precio": 450.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 9,
+    "nombre": "Collar",
+    "titulo": "Collar Lazos Razas Pequeñas",
+    "imagen": "https://i.imgur.com/upQdt0g.png",
+    "precio": 500.0,
+    "ratings": 3.0,
+    "descripcion": "s"
+},
+{
+    "id": 10,
+    "nombre": "Collar",
+    "titulo": "Collar Con Pajarita Razas Pequeñas",
+    "imagen": "https://i.imgur.com/WqEEYqe.png",
+    "precio": 500.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 11,
+    "nombre": "Collar",
+    "titulo": "Collar Pañuelo Razas Pequeñas",
+    "imagen": "https://i.imgur.com/zBNf99t.png",
+    "precio": 500.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 12,
+    "nombre": "Collar",
+    "titulo": "Collar Grueso Razas Pequeñas y Medianas",
+    "imagen": "https://i.imgur.com/q9miHT1.png",
+    "precio": 500.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 13,
+    "nombre": "Collar",
+    "titulo": "Collar Grueso Refractante Razas Medianas",
+    "imagen": "https://i.imgur.com/e3UXHgV.png",
+    "precio": 600.0,
+    "ratings": 3.0,
+    "descripcion": "s"
+},
+{
+    "id": 14,
+    "nombre": "Collar",
+    "titulo": "Collar Pinchos Razas Grandes",
+    "imagen": "https://i.imgur.com/aPEz8Dt.jpg",
+    "precio": 700.0,
+    "ratings": 3.5,
+    "descripcion": "s"
 }
 ]
+  
+
+    
+   
