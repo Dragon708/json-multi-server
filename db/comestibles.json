@@ -1,0 +1,29 @@
+[
+    {
+    "id": 31,
+    "nombre": "Carnaza",
+    "titulo": "Palitos De Carnaza Molida Con Vitaminas",
+    "imagen": "carnaza1.jpg",
+    "precio": 60.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 32,
+    "nombre": "Carnaza",
+    "titulo": "Carnaza Hueso Comestible Pequeña",
+    "imagen": "carnaza2.jpg",
+    "precio": 100.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 33,
+    "nombre": "Carnaza",
+    "titulo": "Carnaza Grande Con Forma De Dónuts",
+    "imagen": "carnaza3.jpg",
+    "precio": 400.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+}
+]

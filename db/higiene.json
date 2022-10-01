@@ -1,0 +1,83 @@
+[
+    {
+    "id": 34,
+    "nombre": "Suplemento",
+    "titulo": "Multivitaminico (Calcio,D2,B,A)",
+    "imagen": "pastillas.png",
+    "precio": 20.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 35,
+    "nombre": "Antiparasitario",
+    "titulo": "Tabletas De Desparacitacion PET-MAX(Adultos)",
+    "imagen": "desparacitacion.png",
+    "precio": 150.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 36,
+    "nombre": "Utensilio",
+    "titulo": "Plato Plastico Pequeño",
+    "imagen": "plato.png",
+    "precio": 200.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 37,
+    "nombre": "Cepillo Dental",
+    "titulo": "Cepillo De Dientes Doble Para Perros",
+    "imagen": "cepillodientes.jpg",
+    "precio": 250.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 38,
+    "nombre": "Collar Antipulgas",
+    "titulo": "Collar Antipulgas Para Razas Pequeñas",
+    "imagen": "collaranti.png",
+    "precio": 450.0,
+    "ratings": 3.0,
+    "descripcion": "s"
+},
+{
+    "id": 39,
+    "nombre": "Peine",
+    "titulo": "Peine Para Perros",
+    "imagen": "peines.jpg",
+    "precio": 500.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 40,
+    "nombre": "Cepillo",
+    "titulo": "Cepillo Doble Pequeño Para Perros",
+    "imagen": "cepillo.jpg",
+    "precio": 650.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 41,
+    "nombre": "Cepillo",
+    "titulo": "Cepillo Doble Grande Para Perros",
+    "imagen": "cepillo.jpg",
+    "precio": 800.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 42,
+    "nombre": "Cepillo",
+    "titulo": "Cepillo Almoaza",
+    "imagen": "almoaza.jpg",
+    "precio": 800.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+}
+]

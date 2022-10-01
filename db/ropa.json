@@ -1,0 +1,56 @@
+[
+    {
+    "id": 25,
+    "nombre": "Lazos",
+    "titulo": "Pareja De Lazos",
+    "imagen": "lazos.jpg",
+    "precio": 200.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 26,
+    "nombre": "Ropa",
+    "titulo": "Sueter Azul Razas Pequeñas",
+    "imagen": "sueterazul.png",
+    "precio": 400.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 27,
+    "nombre": "Ropa",
+    "titulo": "Sueter Negro Razas Pequeñas",
+    "imagen": "sueternegro.png",
+    "precio": 400.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 28,
+    "nombre": "Ropa",
+    "titulo": "Calcetines Con Fondo Engomado Para Perros y Gatos",
+    "imagen": "medias.jpg",
+    "precio": 400.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 29,
+    "nombre": "Ropa",
+    "titulo": "Pulover Rosado Razas Pequeñas",
+    "imagen": "rosado.png",
+    "precio": 550.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 30,
+    "nombre": "Ropa",
+    "titulo": "Pulover Azul Razas Pequeñas",
+    "imagen": "azul.png",
+    "precio": 550.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+}
+]

@@ -1,0 +1,38 @@
+[
+    {
+    "id": 15,
+    "nombre": "Pechera",
+    "titulo": "Pechera Razas Pequeñas",
+    "imagen": "pecherapequena copia.png",
+    "precio": 700.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 16,
+    "nombre": "Pechera",
+    "titulo": "Pechera Gruesa Razas Pequeñas",
+    "imagen": "pechera4.jpg",
+    "precio": 1000.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 17,
+    "nombre": "Pechera",
+    "titulo": "Pechera Arcoiris Razas Pequeñas",
+    "imagen": "pecheramediana copia.png",
+    "precio": 1500.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 4,
+    "nombre": "Pechera",
+    "titulo": "Pechera Gruesa Razas Grandes",
+    "imagen": "Sin título-1.jpg",
+    "precio": 2000.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+}
+]

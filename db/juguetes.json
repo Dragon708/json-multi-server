@@ -1,0 +1,56 @@
+[
+    {
+    "id": 19,
+    "nombre": "Juguete",
+    "titulo": "Juguete Chillón Erizo",
+    "imagen": "juguete2.png",
+    "precio": 400.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 20,
+    "nombre": "Juguete",
+    "titulo": "Juguete Chillón Estrella",
+    "imagen": "juguete1.png",
+    "precio": 400.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 21,
+    "nombre": "Juguete",
+    "titulo": "Juguete Chillon Mando",
+    "imagen": "mando.png",
+    "precio": 450.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+},
+{
+    "id": 22,
+    "nombre": "Juguete",
+    "titulo": "Juguete Chillón Hueso",
+    "imagen": "hueso.png",
+    "precio": 500.0,
+    "ratings": 4.0,
+    "descripcion": "s"
+},
+{
+    "id": 23,
+    "nombre": "Juguete",
+    "titulo": "Juguete Chillón Chuleta",
+    "imagen": "bistec.png",
+    "precio": 500.0,
+    "ratings": 3.5,
+    "descripcion": "s"
+},
+{
+    "id": 24,
+    "nombre": "Juguete",
+    "titulo": "Juguete Super Resistente",
+    "imagen": "juguete5.png",
+    "precio": 900.0,
+    "ratings": 4.5,
+    "descripcion": "s"
+}
+]
