@@ -1,132 +1,128 @@
- [
+[
     {
     "id": 1,
     "nombre": "Collar",
     "titulo": "Collar Con Cascabel Razas Pequeñas",
     "imagen": "https://i.imgur.com/7PjevHY.png",
-    "precio": 380.0,
+    "precio": 2.5,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Ligero, Ancho, estampado, con Cascabel.Tamaño Max: 30cm, Tamaño Min: 18cm. Colores Disponibles: Azul, Violeta, Rojo y Rojo Vino."
 },
 {
     "id": 2,
     "nombre": "Collar",
     "titulo": "Collar Paticas Razas Pequeñas",
     "imagen": "https://i.imgur.com/zsjhbUF.png",
-    "precio": 400.0,
+    "precio": 2.5,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente, Estampado con Huellas , con Cascabel. Tamaño Max: 31cm, Tamaño Min: 19cm.Colores Disponibles: Verde, Rosado, Azul y Violeta"
 },
 {
     "id": 3,
     "nombre": "Collar",
     "titulo": "Collar Refractante Razas Pequeñas",
     "imagen": "https://i.imgur.com/rr5pI75.png",
-    "precio": 400.0,
-    "ratings": 3.5,
-    "descripcion": "s"
+    "precio": 2.5,
+    "ratings": 3,
+    "descripcion": "Collar Resistente, con Franja Refractante Con Cascabel.Tamaño Max: 31cm, Tamaño Min: 19cm. Colores Disponibles: Negro, Naranja, Azul, rosado y Verde."
 },
 {
     "id": 4,
     "nombre": "Collar",
     "titulo": "Collar Brillos Razas Pequeñas",
     "imagen": "https://i.imgur.com/SlcTo9U.png",
-    "precio": 400.0,
+    "precio": 2.5,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Fino, Con Decoración de Brillos, con Cascabel.Tamaño Max: 30cm, Tamaño Min: 20cm. Colores Disponibles: Rosado, Rojo, Azul y Violeta Degradado"
 },
 {
     "id": 5,
     "nombre": "Collar",
     "titulo": "Collar Nieve Razas Pequeñas",
     "imagen": "https://i.imgur.com/vBqDMDD.png",
-    "precio": 450.0,
+    "precio": 3.0,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente Con Estampado De Copas De Nieve y Cascabel.Tamaño Max: 30cm, Tamaño Min: 18cm. Colores Disponibles: Azul y Negro"
 },
 {
     "id": 6,
     "nombre": "Collar",
     "titulo": "Collar Silicona Razas Pequeñas",
     "imagen": "https://i.imgur.com/LmIWdnv.png",
-    "precio": 450.0,
+    "precio": 3.0,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente De Silicona, Con Decoración en Relieve De Raton Gris, Con Cascabel.Tamaño Max: 26cm, Tamaño Min: 19cm. Colores Disponibles: Azul, Rosado y Violeta"
 },
 {
     "id": 7,
     "nombre": "Collar",
     "titulo": "Collar Lazos Razas Pequeñas",
     "imagen": "https://i.imgur.com/JT37EG7.png",
-    "precio": 450.0,
+    "precio": 3.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente Con Adorno De Lazo Mediano y Cascabel.Tamaño Max: 32cm, Tamaño Min: 21cm. Colores Disponibles:Verde, Azul y Amarillo"
 },
 {
     "id": 8,
     "nombre": "Collar",
     "titulo": "Collar Satinado Razas Pequeñas",
     "imagen": "https://i.imgur.com/1zRKq4x.png",
-    "precio": 450.0,
+    "precio": 3.0,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Collar Fino Satinado, Elastisado, con Adorno de Lazo  Pequeño y Cascabel.Tamaño Max: 30cm, Tamaño Min: 20cm. Colores Disponibles: Negro, Azul y Rosado"
 },
 {
     "id": 9,
     "nombre": "Collar",
     "titulo": "Collar Lazos Razas Pequeñas",
     "imagen": "https://i.imgur.com/upQdt0g.png",
-    "precio": 500.0,
+    "precio": 3.5,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Resitente Con Adorno de Lazo Grande Estampado Variado.Tamaño Max: 28cm, Tamaño Min: 18cm. Colores Disponibles: Violeta y Rojo"
 },
 {
     "id": 10,
     "nombre": "Collar",
     "titulo": "Collar Con Pajarita Razas Pequeñas",
     "imagen": "https://i.imgur.com/WqEEYqe.png",
-    "precio": 500.0,
+    "precio": 3.5,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente Con Adorno Pajarita Grande Estampado Variado.Tamaño Max: 30cm, Tamaño Min: 20cm. Colores Disponibles: Azul, Rosado y Rojo"
 },
 {
     "id": 11,
     "nombre": "Collar",
     "titulo": "Collar Pañuelo Razas Pequeñas",
     "imagen": "https://i.imgur.com/zBNf99t.png",
-    "precio": 500.0,
+    "precio": 3.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente, Con Pañuelo, Estampado con Figuras.Tamaño Max: 36cm, Tamaño Min: 31cm. Colores Disponibles: Azul, Verde, Naranja, Violeta y Amarillo."
 },
 {
     "id": 12,
     "nombre": "Collar",
     "titulo": "Collar Grueso Razas Pequeñas y Medianas",
     "imagen": "https://i.imgur.com/q9miHT1.png",
-    "precio": 500.0,
+    "precio": 4.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente Grueso Color Solido.Tamaño Max: 35cm, Tamaño Min: 22cm. Colores Disponibles: Negro"
 },
 {
     "id": 13,
     "nombre": "Collar",
     "titulo": "Collar Grueso Refractante Razas Medianas",
     "imagen": "https://i.imgur.com/e3UXHgV.png",
-    "precio": 600.0,
+    "precio": 5.0,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente y Grueso, con Costura Refractante.Tamaño Max: 38cm, Tamaño Min: 24cm. Colores Disponibles :Negro"
 },
 {
     "id": 14,
     "nombre": "Collar",
     "titulo": "Collar Pinchos Razas Grandes",
     "imagen": "https://i.imgur.com/aPEz8Dt.jpg",
-    "precio": 700.0,
+    "precio": 6.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Collar Resistente Con Incrustacion De Pinchos Metalicos.Tamaño Max: 45cm, Tamaño Min: 35cm. Colores Disponibles: Azul"
 }
 ]
-  
-
-    
-   
