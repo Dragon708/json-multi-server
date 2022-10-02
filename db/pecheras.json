@@ -2,37 +2,37 @@
     {
     "id": 15,
     "nombre": "Pechera",
-    "titulo": "Pechera Razas Pequeñas",
-    "imagen": "pecherapequena copia.png",
-    "precio": 700.0,
+    "titulo": "Pechera Con Correa Razas Pequeñas",
+    "imagen": "https://i.imgur.com/Wfy85vS.jpg",
+    "precio": 5.0,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Pechera Ligera Estampada Con Correa. Tamaño Max: 36cm , Tamaño Min: 23cm, Tamaño Correa: 1 Metro. Colores Disponibles: Verde, Negro y Rosada "
 },
 {
     "id": 16,
     "nombre": "Pechera",
-    "titulo": "Pechera Gruesa Razas Pequeñas",
-    "imagen": "pechera4.jpg",
-    "precio": 1000.0,
+    "titulo": "Pechera Gruesa Con Correa Razas Pequeñas",
+    "imagen": "https://i.imgur.com/wtPUiO2.jpg",
+    "precio": 6,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Pechera Gruesa Estilo Arnes En H Clasico, Estampada Con Correa. Tamaño Max: 43cm , Tamaño Min: 28cm, Tamaño Correa: 1 Metro. Colores Disponibles: Negro "
 },
 {
     "id": 17,
     "nombre": "Pechera",
-    "titulo": "Pechera Arcoiris Razas Pequeñas",
-    "imagen": "pecheramediana copia.png",
-    "precio": 1500.0,
+    "titulo": "Pechera Arcoiris Con Correa Razas Pequeñas",
+    "imagen": "https://i.imgur.com/V8ZDl0o.png",
+    "precio": 10.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Pechera Gruesa Color Arcoiris Con Correa. Tamaño Max: 49cm , Tamaño Min: 32cm, Tamaño Correa: 1 Metro. Colores Disponibles: Arcoiris "
 },
 {
     "id": 4,
     "nombre": "Pechera",
-    "titulo": "Pechera Gruesa Razas Grandes",
-    "imagen": "Sin título-1.jpg",
-    "precio": 2000.0,
+    "titulo": "Pechera Gruesa Con Correa Razas Grandes",
+    "imagen": "https://i.imgur.com/pypDlG7.jpg",
+    "precio": 16.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Pechera Gruesa Diseño De Rayas Con Correa. Tamaño Max: 77cm , Tamaño Min: 50cm, Tamaño Correa: 1 Metro. Colores Disponibles: Azul "
 }
 ]
