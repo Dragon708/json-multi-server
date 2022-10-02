@@ -3,54 +3,54 @@
     "id": 25,
     "nombre": "Lazos",
     "titulo": "Pareja De Lazos",
-    "imagen": "lazos.jpg",
-    "precio": 200.0,
+    "imagen": "https://i.imgur.com/A3A6CF8.jpg",
+    "precio": 0.8,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Pareja De Lazos Pequeños De Estampados y Colores Variados con Liga"
 },
 {
     "id": 26,
     "nombre": "Ropa",
     "titulo": "Sueter Azul Razas Pequeñas",
-    "imagen": "sueterazul.png",
-    "precio": 400.0,
+    "imagen": "https://i.imgur.com/nqWa8nB.png",
+    "precio": 2.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Sueter De Algodon Grueso Sin Mangas Para Chihuahuas Color Azul"
 },
 {
     "id": 27,
     "nombre": "Ropa",
     "titulo": "Sueter Negro Razas Pequeñas",
-    "imagen": "sueternegro.png",
-    "precio": 400.0,
+    "imagen": "https://i.imgur.com/mjA0VAu.png",
+    "precio": 2.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Sueter De Algodon Grueso Sin Mangas Para Chihuahuas Color Negro"
 },
 {
     "id": 28,
     "nombre": "Ropa",
     "titulo": "Calcetines Con Fondo Engomado Para Perros y Gatos",
-    "imagen": "medias.jpg",
-    "precio": 400.0,
+    "imagen": "https://i.imgur.com/gXINj8g.jpg",
+    "precio": 2.0,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Calcetines Con Fondo Engomado Para Perros y Gatos con Estampados Variados. Tallas Disponibles: S, M y L"
 },
 {
     "id": 29,
     "nombre": "Ropa",
     "titulo": "Pulover Rosado Razas Pequeñas",
-    "imagen": "rosado.png",
-    "precio": 550.0,
+    "imagen": "https://i.imgur.com/cUrNzvV.png",
+    "precio": 3.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Pulover De Algodon Fino Con Letrero Para Chihuahuas Color Rosado"
 },
 {
     "id": 30,
     "nombre": "Ropa",
     "titulo": "Pulover Azul Razas Pequeñas",
-    "imagen": "azul.png",
-    "precio": 550.0,
+    "imagen": "https://i.imgur.com/Uj3pp61.png",
+    "precio": 3.0,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Pulover De Algodon Fino Con Letrero Para Chihuahuas Color Azul"
 }
 ]
