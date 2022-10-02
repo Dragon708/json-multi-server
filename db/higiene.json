@@ -3,81 +3,81 @@
     "id": 34,
     "nombre": "Suplemento",
     "titulo": "Multivitaminico (Calcio,D2,B,A)",
-    "imagen": "pastillas.png",
-    "precio": 20.0,
+    "imagen": "https://i.imgur.com/RnX8OjE.png",
+    "precio": 0.15,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Multivitaminico Con Calcio, Vitaminas D2,B y A. Complementos Necesarios Para El Buen Desarrollo, Crecimiento y Salud De tu Mascota.Recomendado Para Uso Diario, Se Le Puede Dar a Cachorros Mayores De 6 Semanas y Gestantes"
 },
 {
     "id": 35,
     "nombre": "Antiparasitario",
     "titulo": "Tabletas De Desparacitacion PET-MAX(Adultos)",
-    "imagen": "desparacitacion.png",
-    "precio": 150.0,
+    "imagen": "https://i.imgur.com/wXKZiRp.png",
+    "precio": 1.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Pastilla De Desparacitacion PET-MAX(Adultos). Desparacitante Para Perros De Amplio Expectro. Ivermectina, Albendazol y Parazicoantel, Dosis Unica Cada 28 Dias.Administrar Auxiliandose De Un Veterinario"
 },
 {
     "id": 36,
     "nombre": "Utensilio",
     "titulo": "Plato Plastico Pequeño",
-    "imagen": "plato.png",
-    "precio": 200.0,
+    "imagen": "https://i.imgur.com/ByVdbYi.png",
+    "precio": 1.5,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Plato Plastico Resistente Para Razas Pequeñas y Gatos.Antiderrames. Color Azul "
 },
 {
     "id": 37,
     "nombre": "Cepillo Dental",
     "titulo": "Cepillo De Dientes Doble Para Perros",
-    "imagen": "cepillodientes.jpg",
-    "precio": 250.0,
+    "imagen": "https://i.imgur.com/4cBE1gk.jpg",
+    "precio": 1.5,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Cepillo Dental Doble. Color Disponible: Rosado "
 },
 {
     "id": 38,
     "nombre": "Collar Antipulgas",
     "titulo": "Collar Antipulgas Para Razas Pequeñas",
-    "imagen": "collaranti.png",
-    "precio": 450.0,
+    "imagen": "https://i.imgur.com/mfPKK4Y.png",
+    "precio": 2.0,
     "ratings": 3.0,
-    "descripcion": "s"
+    "descripcion": "Collar Antipulgas Talla S"
 },
 {
     "id": 39,
     "nombre": "Peine",
     "titulo": "Peine Para Perros",
-    "imagen": "peines.jpg",
-    "precio": 500.0,
+    "imagen": "https://i.imgur.com/KFam4Kv.jpg",
+    "precio": 3.5,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Peines De Acero Inoxidable Con Mango Plastico"
 },
 {
     "id": 40,
     "nombre": "Cepillo",
     "titulo": "Cepillo Doble Pequeño Para Perros",
-    "imagen": "cepillo.jpg",
-    "precio": 650.0,
+    "imagen": "https://i.imgur.com/1LHhCZx.jpg",
+    "precio": 4.5,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Cepillo Doble Pequeño Con Mango De Madera . Tamaño: 18cm "
 },
 {
     "id": 41,
     "nombre": "Cepillo",
     "titulo": "Cepillo Doble Grande Para Perros",
-    "imagen": "cepillo.jpg",
-    "precio": 800.0,
+    "imagen": "https://i.imgur.com/1LHhCZx.jpg",
+    "precio": 5.5,
     "ratings": 4.0,
-    "descripcion": "s"
+    "descripcion": "Cepillo Doble Grande Con Mango De Madera . Tamaño: 23cm "
 },
 {
     "id": 42,
     "nombre": "Cepillo",
     "titulo": "Cepillo Almoaza",
-    "imagen": "almoaza.jpg",
-    "precio": 800.0,
+    "imagen": "https://i.imgur.com/WQWRC9l.jpg",
+    "precio": 6.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Cepillo Almoaza De Silicona Gruesa Resistente Y Cerdas De Acero Inoxidable"
 }
 ]
