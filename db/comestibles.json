@@ -3,27 +3,27 @@
     "id": 31,
     "nombre": "Carnaza",
     "titulo": "Palitos De Carnaza Molida Con Vitaminas",
-    "imagen": "carnaza1.jpg",
-    "precio": 60.0,
+    "imagen": "https://i.imgur.com/MZEUBl0.jpg",
+    "precio": 0.5,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Palitos De Carnaza Molida Con Vitaminas B1,B2,Calcio,Omega 3 y 6, Sabor Rez. Tamaño:12cm"
 },
 {
     "id": 32,
     "nombre": "Carnaza",
     "titulo": "Carnaza Hueso Comestible Pequeña",
-    "imagen": "carnaza2.jpg",
-    "precio": 100.0,
+    "imagen": "https://i.imgur.com/QQXVYnx.jpg",
+    "precio": 0.8,
     "ratings": 3.5,
-    "descripcion": "s"
+    "descripcion": "Carnaza Con Forma De Hueso 100% Rez. Entretenida,Ejercita la Mandibula,Alto Contenido De Proteinas,Ayuda a la higiene Dental y A Reducir La Acumulación De Sarro. Tamaño:8cm"
 },
 {
     "id": 33,
     "nombre": "Carnaza",
     "titulo": "Carnaza Grande Con Forma De Dónuts",
-    "imagen": "carnaza3.jpg",
-    "precio": 400.0,
+    "imagen": "https://i.imgur.com/SJbvKtj.jpg",
+    "precio": 2.0,
     "ratings": 4.5,
-    "descripcion": "s"
+    "descripcion": "Carnaza Con Forma De Hueso 100% Rez. Entretenida,Ejercita la Mandibula,Alto Contenido De Proteinas,Ayuda a la higiene Dental y A Reducir La Acumulación De Sarro"
 }
 ]
