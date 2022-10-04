@@ -1,0 +1,119 @@
+[
+    {
+    "id": 1,
+    "nombre": "Betta",
+    "titulo": "Betta Fanci",
+    "imagen": "https://i.imgur.com/WkEwtdd.jpg",
+    "precio": 2.5,
+    "ratings": 4.0,
+    "descripcion": ""
+},
+{
+    "id": 2,
+    "nombre": "Betta",
+    "titulo": "Betta Marmol",
+    "imagen": "https://i.imgur.com/dVh0ERH.jpg",
+    "precio": 2.5,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 3,
+    "nombre": "Betta",
+    "titulo": "Betta Marmol HM",
+    "imagen": "https://i.imgur.com/2YM2ngX.jpg",
+    "precio": 3.0,
+    "ratings": 4.5,
+    "descripcion": ""
+},
+{
+    "id": 4,
+    "nombre": "Betta",
+    "titulo": "Betta Dumbo",
+    "imagen": "https://i.imgur.com/g1eLbYD.jpg",
+    "precio": 3.0,
+    "ratings": 4.0,
+    "descripcion": ""
+},
+{
+    "id": 5,
+    "nombre": "Betta",
+    "titulo": "Betta Cola Larga HM",
+    "imagen": "https://i.imgur.com/0223fFD.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 6,
+    "nombre": "Betta",
+    "titulo": "Betta Pitbull",
+    "imagen": "https://i.imgur.com/sXycQ43.jpg",
+    "precio": 6.5,
+    "ratings": 4.5,
+    "descripcion": ""
+},
+{
+    "id": 7,
+    "nombre": "Betta",
+    "titulo": "Betta Dragon",
+    "imagen": "https://i.imgur.com/25lyJic.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 8,
+    "nombre": "Betta",
+    "titulo": "Betta Dragon",
+    "imagen": "https://i.imgur.com/fDz4JHi.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 9,
+    "nombre": "Betta",
+    "titulo": "Betta Nemo",
+    "imagen": "https://i.imgur.com/121fFtU.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 10,
+    "nombre": "Betta",
+    "titulo": "Betta Super Blue",
+    "imagen": "https://i.imgur.com/8aQjf6i.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 11,
+    "nombre": "Betta",
+    "titulo": "Betta Androide",
+    "imagen": "https://i.imgur.com/Z6Swhbf.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 12,
+    "nombre": "Betta",
+    "titulo": "Betta Escama Dragon",
+    "imagen": "https://i.imgur.com/try0NEx.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+},
+{
+    "id": 13,
+    "nombre": "Betta",
+    "titulo": "Betta Plakat Tradicional",
+    "imagen": "https://i.imgur.com/WJZAMsH.jpg",
+    "precio": 3.0,
+    "ratings": 3.5,
+    "descripcion": ""
+}
+]
